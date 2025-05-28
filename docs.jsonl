@@ -32,6 +32,7 @@
 {  "name": "Cursor",  "crawlerStart": "https://docs.cursor.com/",  "crawlerPrefix": "https://docs.cursor.com/"}
 {  "name": "Cypress",  "crawlerStart": "https://docs.cypress.io/guides/overview/why-cypress",  "crawlerPrefix": "https://docs.cypress.io/guides/"}
 {  "name": "D3",  "crawlerStart": "https://d3js.org/getting-started",  "crawlerPrefix": "https://d3js.org/"}
+{  "name": "Dart",  "crawlerStart": "https://dart.dev/docs",  "crawlerPrefix": "https://dart.dev/docs"}
 {  "name": "Datadog",  "crawlerStart": "https://docs.datadoghq.com/",  "crawlerPrefix": "https://docs.datadoghq.com/"}
 {  "name": "Deno",  "crawlerStart": "https://deno.land/manual@v1.35.0/introduction",  "crawlerPrefix": "https://deno.land/manual@v1.35.0/"}
 {  "name": "DigitalOcean",  "crawlerStart": "https://docs.digitalocean.com/",  "crawlerPrefix": "https://docs.digitalocean.com/"}
